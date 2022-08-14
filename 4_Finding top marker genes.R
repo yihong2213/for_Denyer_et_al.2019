@@ -11,8 +11,6 @@
 
 #### Calculation ####----
 
-num_clusters <- length(levels(Denyer@meta.data$seurat_clusters))
-
 cluster_markers <- FindAllMarkers(Denyer, only.pos = TRUE)
 # "only.pos = TRUE" : because we only want the gene expression in 1 given cluster higher than the others
 # "logfc.threshold" : default is 0.25
