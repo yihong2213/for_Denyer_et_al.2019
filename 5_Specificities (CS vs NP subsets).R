@@ -7,8 +7,8 @@
 ## Denyer <- Denyer_CS
 ## Denyer <- Denyer_NP
 
-## cluster_markers <- cluster_markers_CS
-## cluster_markers <- cluster_markers_NP
+## cluster_markers <- cluster_markers_CS_Res0.5
+## cluster_markers <- cluster_markers_NP_Res0.5
 
 
 
